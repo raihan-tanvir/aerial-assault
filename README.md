@@ -1,1 +1,3 @@
-# Aerial_Assault_AUST_CSE1200_Software_Development_Project
+# Aerial Assault
+
+## Aerial Assaul is a first person shooting games. It's developed using iGraphics. 
